@@ -1,4 +1,4 @@
 Please enter your names and email ids below:
 AICoE aicoe@redhat.com
-Anish Asthana aasthana@redhat.com
-hnalla@redhat.com
+Harshad hnalla@redhat.com
+Zai xysugino@bu.ed
